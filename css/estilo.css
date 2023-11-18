@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #007BFF;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#contenido {
+    padding: 40px;
+}
+
+
+li{
+    margin-right: 100px;
+    padding: 8px 16px;
+    color: white;
+    border-radius: 4px;
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;  
+    
+}
+.circle1 {
+    width: 200px;
+    height: 200px;
+    background-color: #3D6AF2;
+    border-radius: 50%;
+  
+}
+.circle2 {
+    width: 200px;
+    height: 200px;
+    background-color: #F2E205; 
+    border-radius: 50%; 
+   
+}
+.circle3 {
+    width: 200px;
+    height: 200px;
+    background-color: #F2CB05; 
+    border-radius: 50%; 
+}
+.circle4 {
+    width: 200px;
+    height: 200px;
+    background-color: #F27B13;
+    border-radius: 50%;
+}
+.circle5 {
+    width: 200px;
+    height: 200px;
+    background-color: #D91A2A;
+    border-radius: 50%;
+  
+}
+.circle6 {
+    width: 200px;
+    height: 200px;
+    background-color: #0540F2; 
+    border-radius: 50%; 
+   
+}
+.circle7 {
+    width: 200px;
+    height: 200px;
+    background-color: #03258C; 
+    border-radius: 50%; 
+}
+.circle8 {
+    width: 200px;
+    height: 200px;
+    background-color: #F20505;
+    border-radius: 50%;
+}
+.circle9 {
+    width: 200px;
+    height: 200px;
+    background-color: #732D2D;
+    border-radius: 50%;
+}
+.circle10 {
+    width: 200px;
+    height: 200px;
+    background-color: #F20530;
+    border-radius: 50%;
+}
+.circle11 {
+    width: 200px;
+    height: 200px;
+    background-color: #868EA6;
+    border-radius: 50%;
+}
+.circle12 {
+    width: 200px;
+    height: 200px;
+    background-color: #EBF227;
+    border-radius: 50%;
+}
+
+
+
+footer {
+    background-color: #F2380F;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
